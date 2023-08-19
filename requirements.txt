@@ -2,6 +2,6 @@ Flask
 numpy
 pandas
 requests
-pickle
+pickle4
 gunicorn
 scikit-learn
